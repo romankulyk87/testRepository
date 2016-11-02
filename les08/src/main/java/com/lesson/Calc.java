@@ -12,8 +12,8 @@ public class Calc {
 	
 	public int multiply(int a,int b){
 		return a*b;
+		System.out.println("hahaahaah");
 	}
-	
 	public double devide(double a,double b){
 		return a/b;
 	}
